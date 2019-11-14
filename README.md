@@ -1,1 +1,1 @@
-# miprimerprograma
+1-	Hacer un programa que me pida un nombre, apellidos y edad, lo envie a una función de tipo String  escribe_todo y me devuelva todo en una sola línea. Este programa debe tener la edad como valor entero. 
